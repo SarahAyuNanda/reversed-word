@@ -1,2 +1,2 @@
 # reversed-word
-The case I got from online test lately
+input any words to see the reversed word
